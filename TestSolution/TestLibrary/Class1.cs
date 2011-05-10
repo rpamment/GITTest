@@ -8,5 +8,10 @@ namespace TestLibrary
         {
             Console.WriteLine("Done stuff");
         }
+
+        public static void DoSomethingElse()
+        {
+            Console.WriteLine("Done something else");
+        }
     }
 }
